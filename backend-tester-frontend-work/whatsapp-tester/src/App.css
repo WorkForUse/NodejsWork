@@ -1,0 +1,62 @@
+/* WhatsApp Theme Variables */
+:root {
+  --wa-green: #25D366;
+  --wa-dark-green: #128C7E;
+  --bg-color: #f0f2f5;
+}
+
+.container { 
+  background-color: var(--bg-color); 
+  min-height: 100vh; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.card { 
+  background: white; 
+  padding: 40px; 
+  border-radius: 15px; 
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12); 
+  width: 100%; 
+  max-width: 400px; 
+}
+
+.header { display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 20px; color: var(--wa-dark-green); }
+
+.qr-code { 
+  width: 200px; 
+  height: 200px; 
+  margin: 15px auto; 
+  display: block; 
+  border: 2px solid #ddd;
+  border-radius: 8px;
+}
+
+.input-group { margin-bottom: 15px; text-align: left; }
+.input-group label { display: block; font-size: 0.9rem; color: #555; margin-bottom: 5px; font-weight: 600; }
+
+input, textarea { 
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ddd; 
+  border-radius: 8px; 
+  box-sizing: border-box; 
+  transition: border 0.3s;
+}
+input:focus, textarea:focus { border-color: var(--wa-green); outline: none; }
+
+.send-btn { 
+  background-color: var(--wa-green); 
+  color: white; 
+  border: none; 
+  padding: 14px; 
+  width: 100%; 
+  border-radius: 8px; 
+  cursor: pointer; 
+  font-size: 1rem; 
+  font-weight: bold;
+  margin-top: 10px;
+}
+.send-btn:hover { background-color: var(--wa-dark-green); }

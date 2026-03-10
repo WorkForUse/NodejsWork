@@ -1,0 +1,37 @@
+2026/03/10-19:58:11.550 509c Reusing MANIFEST C:\Users\LENOVO\Desktop\Nodejs\sessions\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/10-19:58:11.551 509c Recovering log #324
+2026/03/10-19:58:11.643 509c Reusing old log C:\Users\LENOVO\Desktop\Nodejs\sessions\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000324.log 
+2026/03/10-19:58:18.970 509c Level-0 table #330: started
+2026/03/10-19:58:19.117 509c Level-0 table #330: 1154822 bytes OK
+2026/03/10-19:58:19.123 509c Delete type=0 #324
+2026/03/10-19:58:19.147 509c Compacting 1@1 + 2@2 files
+2026/03/10-19:58:19.470 509c Generated table #331@1: 54453 keys, 2214434 bytes
+2026/03/10-19:58:19.615 509c Generated table #332@1: 20386 keys, 1445621 bytes
+2026/03/10-19:58:19.615 509c Compacted 1@1 + 2@2 files => 3660055 bytes
+2026/03/10-19:58:19.621 509c compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/10-19:58:23.851 509c Level-0 table #334: started
+2026/03/10-19:58:23.922 509c Level-0 table #334: 1195780 bytes OK
+2026/03/10-19:58:23.926 509c Delete type=2 #326
+2026/03/10-19:58:23.926 509c Delete type=2 #327
+2026/03/10-19:58:23.926 509c Delete type=0 #329
+2026/03/10-19:58:23.926 509c Delete type=2 #330
+2026/03/10-19:58:23.933 31c8 Compacting 1@1 + 2@2 files
+2026/03/10-19:58:24.158 31c8 Generated table #335@1: 54745 keys, 2215125 bytes
+2026/03/10-19:58:24.279 31c8 Generated table #336@1: 23425 keys, 1692398 bytes
+2026/03/10-19:58:24.279 31c8 Compacted 1@1 + 2@2 files => 3907523 bytes
+2026/03/10-19:58:24.282 31c8 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/10-19:59:24.405 509c Level-0 table #338: started
+2026/03/10-19:59:24.519 509c Level-0 table #338: 1221091 bytes OK
+2026/03/10-19:59:24.524 509c Delete type=2 #331
+2026/03/10-19:59:24.524 509c Delete type=2 #332
+2026/03/10-19:59:24.524 509c Delete type=0 #333
+2026/03/10-19:59:24.524 509c Delete type=2 #334
+2026/03/10-19:59:24.708 509c Compacting 1@1 + 2@2 files
+2026/03/10-19:59:24.948 509c Generated table #339@1: 60392 keys, 2221583 bytes
+2026/03/10-19:59:25.088 509c Generated table #340@1: 26262 keys, 2188329 bytes
+2026/03/10-19:59:25.098 509c Generated table #341@1: 971 keys, 24148 bytes
+2026/03/10-19:59:25.098 509c Compacted 1@1 + 2@2 files => 4434060 bytes
+2026/03/10-19:59:25.102 509c compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/03/10-19:59:25.104 509c Delete type=2 #335
+2026/03/10-19:59:25.104 509c Delete type=2 #336
+2026/03/10-19:59:25.104 509c Delete type=2 #338
